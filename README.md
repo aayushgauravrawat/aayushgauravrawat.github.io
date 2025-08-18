@@ -42,7 +42,7 @@
 <body>
   <!-- Navbar -->
   <nav>
-    <div><strong>Aayush Rawat</strong></div>
+    <div><strong>Aayush Gaurav Rawat</strong></div>
     <div>
       <a href="#about">About</a>
       <a href="#projects">Projects</a>
@@ -54,7 +54,7 @@
   <!-- Hero -->
   <section class="hero" id="home">
     <h1>Hi, I'm Aayush 👋</h1>
-    <p>Aspiring AI/ML Scientist | B.Tech CSE @ MIT Manipal | Builder of ideas like <strong>Konkordia</strong>. Passionate about research, innovation, and impactful technology.</p>
+    <p>Aspiring AI/ML Research Scientist | B.Tech CSE @ MIT Manipal | Builder of ideas like <strong>konkordia</strong>. Passionate about research, innovation, and impactful technology.</p>
   </section>
 
   <!-- About -->
@@ -62,7 +62,7 @@
     <h2>About Me</h2>
     <p>
       I'm a Computer Science undergraduate at MIT Manipal with a strong interest in AI, Machine Learning, and building real-world impactful projects.
-      Currently working on <strong>Konkordia</strong>, a student networking platform, and learning advanced computer science concepts.
+      Currently working on <strong>konkordia</strong>, a student-friendly social networking platform, and learning advanced computer science concepts(trying;).
     </p>
   </section>
 
@@ -72,13 +72,12 @@
     <div class="projects">
       <div class="card">
         <h3>Konkordia</h3>
-        <p>A web app to help students connect with peers of similar interests and hobbies. Built with Python, Flask, and Firebase.</p>
-        <a href="https://github.com/yourusername/konkordia" target="_blank">🔗 GitHub</a>
+        <p>A web app to help students connect with peers of similar interests and hobbies. Built with Python, Flask(python's framework), and Firebase(google).</p>
+        <a href="https://github.com/aayushgauravrawat/konkordia-project_1-" target="_blank">🔗 GitHub</a>
       </div>
       <div class="card">
-        <h3>Netflix Dataset Analysis</h3>
-        <p>Analyzed Netflix TV shows and movies dataset to uncover trends and insights using Python and data visualization.</p>
-        <a href="#" target="_blank">🔗 GitHub</a>
+        <h3>Netflix Dataset Analysis(discontinued at moment)</h3>
+        <p>Analysing Netflix TV shows and movies dataset to uncover trends and insights using Python and data visualization.</p>
       </div>
     </div>
   </section>
@@ -86,22 +85,22 @@
   <!-- Skills -->
   <section id="skills">
     <h2>Skills</h2>
-    <p>Python, C, HTML, CSS, Git/GitHub, Firebase, Flask, Data Analysis</p>
+    <p>Python, C, HTML&CSS(novice), Git/GitHub, Firebase, Flask</p>
   </section>
 
   <!-- Contact -->
   <section id="contact">
     <h2>Contact Me</h2>
     <div class="contact">
-      <a href="mailto:aayush@example.com">📧 Email</a>
-      <a href="https://linkedin.com/in/yourusername" target="_blank">💼 LinkedIn</a>
-      <a href="https://github.com/yourusername" target="_blank">💻 GitHub</a>
+      <a href="aayush.g.rawat@gmail.com">📧 Email</a>
+      <a href="https://linkedin.com/in/Aayush Gaurav Rawat" target="_blank">💼 LinkedIn</a>
+      <a href="https://github.com/aayushgauravrawat" target="_blank">💻 GitHub</a>
     </div>
   </section>
 
   <!-- Footer -->
   <footer>
-    © 2025 Aayush Rawat | Built with ❤️ and Black+Orange theme
+    © 2025 Aayush Gaurav Rawat | Built with ❤️ and Black+Orange theme
   </footer>
 </body>
 </html>
