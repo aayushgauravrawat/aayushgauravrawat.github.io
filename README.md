@@ -75,10 +75,6 @@
         <p>A web app to help students connect with peers of similar interests and hobbies. Built with Python, Flask(python's framework), and Firebase(google).</p>
         <a href="https://github.com/aayushgauravrawat/konkordia-project_1-" target="_blank">🔗 GitHub</a>
       </div>
-      <div class="card">
-        <h3>Netflix Dataset Analysis(discontinued at moment)</h3>
-        <p>Analysing Netflix TV shows and movies dataset to uncover trends and insights using Python and data visualization.</p>
-      </div>
     </div>
   </section>
 
