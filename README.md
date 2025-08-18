@@ -93,7 +93,7 @@
     <h2>Contact Me</h2>
     <div class="contact">
       <a href="aayush.g.rawat@gmail.com">📧 Email</a>
-      <a href="https://linkedin.com/in/Aayush Gaurav Rawat" target="_blank">💼 LinkedIn</a>
+      <a href="https://www.linkedin.com/in/aayush-gaurav-rawat-a8a49933b/" target="_blank">💼 LinkedIn</a>
       <a href="https://github.com/aayushgauravrawat" target="_blank">💻 GitHub</a>
     </div>
   </section>
